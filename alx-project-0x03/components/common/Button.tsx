@@ -1,4 +1,4 @@
-import { ButtonProps } from "@/interfaces";
+import { ... } from "@/interface";
 
 const Button = ({ buttonLabel, buttonSize, buttonBackgroundColor, action }: ButtonProps) => {
   // Add the explicit type record here:
