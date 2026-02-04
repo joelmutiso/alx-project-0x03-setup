@@ -1,4 +1,4 @@
-import { ... } from "@/interface";
+import { LayoutProps } from "@/interface";
 import Footer from "./Footer";
 import Header from "./Header";
 
